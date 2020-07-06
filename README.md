@@ -1,8 +1,5 @@
-# dh101
-Repository for Digital Humanities 101
+# Analyzing College Scorecard Data
 
-This is an edit!
+Colleges have become increasingly unaffordable for normal families, and the boost to future earnings from attending college has correspondingly risen in importance. The college scorecard dataset includes almost two thousand fields, including a college's admit rate, the 10 year post graduation earnings of former students, a student's family's income, and the average SAT score of admitted students. Previous analyses of this data have mostly focused on using it to create or supplement college rankings, with the data itself hidden from the reader. My goal is to analyze the data in a more transparent way, using machine learning models such as random forest or adaptive boost, to determine which fields best predict a student's future earnings. In the end, I found that the average faculty salary of a college and the average SAT score of admitted students best predicted future earnings, with other possibilities far behind. 
 
-![tree](images/oak-tree-sunset-iStock-477164218-1080x608.jpg)
-
-Another edit!
+![education](images/education.jpg)
